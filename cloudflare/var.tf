@@ -5,6 +5,7 @@ variable "zone_id" {
 }
 
 variable "a_record_info" {
+
 }
 
 variable "ttl" {
