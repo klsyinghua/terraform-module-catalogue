@@ -5,9 +5,6 @@ variable "zone_id" {
 }
 
 variable "a_record_info" {
-  default = {
-    "teset" : "1111"
-  }
 }
 
 variable "ttl" {
