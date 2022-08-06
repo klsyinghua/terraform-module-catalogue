@@ -5,7 +5,7 @@ variable "zone_id" {
 }
 
 variable "a_record_info" {
-  type = map(sting)
+  type = map(string)
 }
 
 variable "ttl" {
